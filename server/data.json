@@ -1,0 +1,24 @@
+{
+  "subscriptions": [
+    {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/ddlzGPi8nkM:APA91bGqP3oz2a4-h8LO6cov0yymnlnokcrFZQzhD1YwpuXu7b2aQVkoa0pTzCWv8mXNSPppoC2Az7mwhCpVtkwBMAnAkM2Ok1jzlU9ci9HtbQB_6v-xgr3qh1_rjAUzXKK27KqqD7rT",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BHkatQ6XE3h--yV5-HDqZKgJ7Z8yP-MSP2Dzlee26s45e8z9oy7JGPYjf48ne8JTo7gxGoYWeCPJmiFiRnrsNrQ",
+        "auth": "y7bqbUPUgk0fYaq1rKpJAQ"
+      }
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-19",
+      "startTime": "15:47"
+    }
+  ],
+  "rules": [
+    {
+      "offsetHours": 0,
+      "message": "Do not forget about meeee prettty pleassseee"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+# Copy to .env  (never commit .env)
+PORT=4000
+CLIENT_ORIGIN=http://localhost:5173
+ADMIN_PASSWORD=change-me
+
+# Generate with: npx web-push generate-vapid-keys
+VAPID_PUBLIC_KEY=
+VAPID_PRIVATE_KEY=
+VAPID_SUBJECT=mailto:you@example.com
+
+# Where a tapped notification should land
+ATTENDANCE_URL=https://example.com/attendance
+
+# Session times are interpreted in this UTC offset (Nairobi = +03:00)
+TZ_OFFSET=+03:00
